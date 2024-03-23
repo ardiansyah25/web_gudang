@@ -1,0 +1,5 @@
+Nama Database: web_gudang
+
+Username: 11111
+Password: 123
+

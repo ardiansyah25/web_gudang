@@ -1,0 +1,7 @@
+Tabel 
+Tabel Barang Masuk
+Tabel Barang Keluar
+Last Login : 
+ Setting
+ Sign Out
+
